@@ -2,8 +2,8 @@ import os
 
 class Config(object):
     BOT_TOKEN = "7548911504:AAF4T2B4ni9XrsYE29uYGDzsYI3VIycWYJE"
-    API_ID = 28094744
-    API_HASH = "a75af4285edc7747c57bb19147ca0b9b"
+    API_ID = 22182189
+    API_HASH = "5e7c4088f8e23d0ab61e29ae11960bf5"
     ADMIN = '7170328188'.split(',')
     ADMIN_ID = [int(id) for id in ADMIN]
     DB_URL = "mongodb+srv://tmglcd:kI1UijMr2jJXyOXY@cluster0.unjzi.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
